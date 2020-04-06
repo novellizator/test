@@ -1,5 +1,5 @@
 {
-  "devDependencies": {
+  "dependencies": {
     "jest": "^25.2.7"
   },
   "scripts": {
